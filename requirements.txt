@@ -1,0 +1,21 @@
+conda install -c conda-forge spacy
+conda install -c conda-forge cupy
+# packages only available via pip
+pip install spacy-transformers
+pip install spacy-lookups-data
+python -m spacy download en_core_web_lg
+
+conda install -c conda-forge textacy
+
+scikit-learn==0.23.2
+
+conda install -c districtdatalabs yellowbrick
+
+conda install -c plotly plotly
+
+conda install -c conda-forge textblob
+
+conda install -c conda-forge wordcloud
+
+conda install -c conda-forge imbalanced-learn
+
