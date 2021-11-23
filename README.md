@@ -18,7 +18,7 @@ output in the form of a smart progress bar by showing the iterations. It also sh
 that provide support for machine learning and deep learning algorithms. The nltk, spacy, and textacy libraries help in providing support for the natural language processing tasks.
 The pandas, numpy, and re libraries are used for the mathematical calculations and use which will be done to find or evaluate the performance of the algorithms. 
 
-7.	REFERENCES:
+REFERENCES:
 [1] Morganclaypool.com. 2021. Sentiment Analysis and Opinion Mining | Synthesis
 Lectures on Human Language Technologies. [online] Available at: https://www.morganclaypool.com/doi/abs/10.2200/s00416ed1v01y201204hlt016 [Accessed 13 August 2021].
 [2] Wolff, R., 2021. Quick Introduction to Sentiment Analysis. [online] Medium. Available at: <https://towardsdatascience.com/quick-introduction-to-sentiment-analysis-74bd3dfb536c> [Accessed 1 July 2021].
