@@ -1,15 +1,15 @@
 Sentiment Analysis Using Machine Learning and Deep Learning
 
-ABSTRACT
+ABSTRACT:
 This research report presents and provides an overview of the methods or classifiers used for sentiment analysis. The purpose of this research is to investigate and compare
 different methods like Naïve Bayes, Lexicon based approach, Linear SVM and BERT for sentiment analysis, to find out the accuracy that could be obtained by using different methods
 on a similar dataset with Amazon customer reviews. The practical work is done using the python language and dataset in JSON format.
 
-AIM AND OBJECTIVES
+AIM AND OBJECTIVES:
 The main purpose of this project is to understand the different models or algorithms which could be used for sentiment analysis on a dataset of many customer reviews from Amazon.
 This understanding could also help in finding out how different models work and the accuracy of the model for better use.
 
-TOOLS AND TECHNIQUES
+TOOLS AND TECHNIQUES:
 •	Jupyter Notebook: It is an open-source software or web environment with various services enabling interactive computing spanning various programming languages.
 •	Libraries: There are numerous libraries used for all the classifiers worked on. 
 nltk, pandas, matplotlib, NumPy, wordcloud, seaborn, re, sklearn, spacy, textacy, transformers, torch, tqdm.
@@ -18,7 +18,7 @@ output in the form of a smart progress bar by showing the iterations. It also sh
 that provide support for machine learning and deep learning algorithms. The nltk, spacy, and textacy libraries help in providing support for the natural language processing tasks.
 The pandas, numpy, and re libraries are used for the mathematical calculations and use which will be done to find or evaluate the performance of the algorithms. 
 
-7.	REFERENCES
+7.	REFERENCES:
 [1] Morganclaypool.com. 2021. Sentiment Analysis and Opinion Mining | Synthesis
 Lectures on Human Language Technologies. [online] Available at: https://www.morganclaypool.com/doi/abs/10.2200/s00416ed1v01y201204hlt016 [Accessed 13 August 2021].
 [2] Wolff, R., 2021. Quick Introduction to Sentiment Analysis. [online] Medium. Available at: <https://towardsdatascience.com/quick-introduction-to-sentiment-analysis-74bd3dfb536c> [Accessed 1 July 2021].
